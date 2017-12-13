@@ -7,7 +7,7 @@ Promise - `NetworkInfoPromise` - for use throughout your application.
 
 It also provides a proxy wrapper class for Mongo collections 
 which ensures that network id is stored for each document in the collection, 
-allowing you store [data by network](https://github.com/ethereum/mist/pull/1049).
+allowing you store [data by network](https://github.com/ethereum/mist/pull/1049) like eth.
 
 ## Installation
 
