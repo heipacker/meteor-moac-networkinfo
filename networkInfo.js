@@ -11,7 +11,7 @@ NetworkInfo = {
             }, 100);
         })
         .then(function() {
-            web3.eth.getBlock(0, function(e, res) {
+            web3.mc.getBlock(0, function(e, res) {
                 if (e) {
                     console.error('Error fetching Genesis block');
 

@@ -1,4 +1,4 @@
-# Meteor package - Ethereum network info
+# Meteor package - Moac network info
 
 Waits for a `web3` connection and then extracts network info.
 
@@ -11,7 +11,7 @@ allowing you store [data by network](https://github.com/ethereum/mist/pull/1049)
 
 ## Installation
 
-    $ meteor add hiddentao:ethereum-networkinfo
+    $ meteor add moac:moac-networkinfo
 
 ## Usage
 
