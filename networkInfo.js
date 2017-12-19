@@ -41,7 +41,7 @@ NetworkInfo = {
     }),
 
     /**
-     * An Ethereum network id aware collection using given collection.
+     * An Moac network id aware collection using given collection.
      *
      * This creates a proxy collection which ensures all queries to the
      * underlying original collection take network id into account.

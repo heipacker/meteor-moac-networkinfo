@@ -1,8 +1,8 @@
 Package.describe({
   name: 'moac:networkinfo',
   summary: 'Moac network information package',
-  version: '0.4.1',
-  git: 'https://github.com/MOACChain/meteor-moac-networkinfo.git'
+  version: '0.1.0',
+  git: 'https://github.com/heipacker/meteor-moac-networkinfo.git'
 });
 
 Package.onUse(function(api) {
