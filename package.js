@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'moac:networkinfo',
+  name: 'heipacker:networkinfo',
   summary: 'Moac network information package',
   version: '0.1.0',
   git: 'https://github.com/heipacker/meteor-moac-networkinfo.git'
